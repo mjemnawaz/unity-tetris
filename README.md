@@ -1,5 +1,4 @@
-# Tetris Game in Unity
+# Tetris Game
 
-Game mechanics are complete. Point system is not in place, neither is the level system.
-
-Personal project for getting familiar with Unity.
+Developed using Unity. Personal Project.
+Game mechanics are complete. There is no point or level system.
